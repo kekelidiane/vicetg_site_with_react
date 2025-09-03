@@ -1,12 +1,12 @@
 import { Helmet } from 'react-helmet';
 import './App.css';
 
-import Home from './pages/home';
-import About from './pages/about';
-import Donate from './pages/donate';
-import Blog from './pages/blog';
-import Contact from './pages/contact';
-import Footer from './pages/footer';
+import Home from './components/home';
+import About from './components/about';
+import Donate from './components/donate';
+import Blog from './components/blog';
+import Contact from './components/contact';
+import Footer from './components/footer';
 
 function App() {
   return (
