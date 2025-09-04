@@ -1,7 +1,7 @@
 function Blog() {
   return (
     <div className='bloc-blog' id='blog'>
-      <div className="container">
+      <div className="container"> 
         <div className="row">
           <div className="col">
             <h2 className="title-blog">Notre blog d'activités</h2>

@@ -22,7 +22,7 @@ function Footer() {
             </ul>
           </div> */}
           <div className="mb-5">
-            <h2 className="footer-heading mb-4">S'abonner</h2>
+            <h2 className="footer-heading mb-4">S'abonner à notre newsletter</h2>
             <form action="#" method="post">
               <div className="newsletter">
                 <input type="text" className="subs" placeholder="Entrer Email" aria-label="Entrer Email" aria-describedby="button-addon2"/>
@@ -31,13 +31,13 @@ function Footer() {
                 </div>
               </div>
               <h2 className="footer-heading mb-4">Suivez-nous sur</h2>
-              <a href="#about" className="foot-icon">
+              <a href="#contact" className="foot-icon">
                 <span className="icon-facebook" />
               </a>
-              <a href="#" className="foot-icon">
+              <a href="#contact" className="foot-icon">
                 <span className="icon-twitter" />
               </a>
-              <a href="#" className="foot-icon">
+              <a href="#contact" className="foot-icon">
                 <span className="icon-instagram" />
               </a>
             </form>

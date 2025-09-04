@@ -5,6 +5,11 @@ function Home() {
         <div className="nav_container">
           <div className="row align-items-center position-relative">
             <div className="site-logo">
+              <img 
+                className="rounded-2xl"
+                alt="logo"
+                src="./assets/logo_vicetg.jpg"
+              />
               <a href="#home" className="text-green">VICE-TOGO ASSOCIATION</a>
             </div>
 
