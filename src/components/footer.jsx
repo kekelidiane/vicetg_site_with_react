@@ -8,7 +8,7 @@ function Footer() {
             <p>
               Découvrez qui nous sommes, notre vision et notre engagement.
               <br />
-              Nous vous invitons à rejoindre notre mouvement pour un monde meilleur.
+              Nous vous invitons à rejoindre notre association pour un monde meilleur.
             </p>
           </div>
           {/* <div className="col">
@@ -25,9 +25,9 @@ function Footer() {
             <h2 className="footer-heading mb-4">S'abonner à notre newsletter</h2>
             <form action="#" method="post">
               <div className="newsletter">
-                <input type="text" className="subs" placeholder="Entrer Email" aria-label="Entrer Email" aria-describedby="button-addon2"/>
+                <input type="text" className="subs" placeholder="Entrez votre adresse mail" aria-label="Entrez votre adresse mail" aria-describedby="button-addon2"/>
                 <div className="input-group-append">
-                  <button className="btn" type="button" id="button-addon2">S'abonner</button>
+                  <button type="button" id="button">S'abonner</button>
                 </div>
               </div>
               <h2 className="footer-heading mb-4">Suivez-nous sur</h2>
@@ -42,7 +42,7 @@ function Footer() {
               </a>
             </form>
 
-            <p>Copyright © VICE-TOGO ASSOCIATION 2025 | All rights reserved</p>
+            <p>Copyright © VICE-TOGO 2025 | All rights reserved</p>
          
           </div>
         </div>

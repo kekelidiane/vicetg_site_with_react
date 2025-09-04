@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <Helmet>
-        <title>VICE-TOGO</title>
+        <title>vicetg</title>
         <meta charSet="utf-8" />
       </Helmet>
 

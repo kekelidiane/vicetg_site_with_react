@@ -15,7 +15,7 @@ function Contact() {
             <textarea className="form-control" placeholder="Votre message" rows={6}></textarea>
           </div>
           <div className="form-group row">
-            <input type="submit" className="btn" value="Envoyer" />
+            <button type="button">Envoyez</button>
           </div>
         </form>
       </div>
