@@ -1,4 +1,6 @@
 import sensib from '../assets/sensib.jpg'
+import filles from '../assets/filles.jpg'
+import culture from '../assets/culture.jpg'
 
 function Blog() {
   return (
@@ -18,7 +20,7 @@ function Blog() {
         
         <div className="flex items-center gap-4 bg-white rounded-lg shadow-md p-4 hover:shadow-lg transition">
           <img 
-            src={sensib.src}
+            src={filles.src}
             alt="Nos récoltes de cette saison" 
             className="w-32 h-24 object-cover rounded-md"
           />
@@ -38,7 +40,7 @@ function Blog() {
 
         <div className="flex items-center gap-4 bg-white rounded-lg shadow-md p-4 hover:shadow-lg transition">
           <img 
-            src={sensib.src}
+            src={culture.src}
             alt="Nos récoltes de cette saison" 
             className="w-32 h-24 object-cover rounded-md"
           />

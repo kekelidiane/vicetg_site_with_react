@@ -28,4 +28,4 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         port: ${{ secrets.FTP_PORT }}
         local-dir: ./        # dossier local à déployer
-        server-dir: /     # dossier distant sur Hostinger  //ajouter en public_html/vicetogo quand ce sera prêt
+        server-dir: /public_html/vicetogo/    # dossier distant sur Hostinger  //ajouter public_html/vicetogo quand ce sera prêt
