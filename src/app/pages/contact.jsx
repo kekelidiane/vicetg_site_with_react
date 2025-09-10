@@ -4,7 +4,7 @@ function Contact() {
       
       <div className="max-w-3xl mx-auto text-center mb-12">
         <h2 className="text-3xl md:text-4xl font-bold text-green-700 mb-4">
-          Contactez-nous
+          Contactez - nous
         </h2>
         <p className="text-gray-700 text-lg md:text-xl leading-relaxed">
           Vous avez des questions ou souhaitez nous soutenir ? Envoyez-nous un message !
@@ -27,8 +27,8 @@ function Contact() {
 
         <div className="grid md:grid-cols-2 gap-4">
           <input 
-            type="text" 
-            placeholder="Adresse mail ou contact WhatsApp" 
+            type="email" 
+            placeholder="Adresse mail" 
             className="border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-green-700 w-full"
           />
           <input 
@@ -47,7 +47,7 @@ function Contact() {
         <div className="text-center">
           <button 
             type="submit" 
-            className="bg-green-700 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-lg shadow transition cursor-pointer"
+            className="bg-green-700 hover:bg-green-600 text-white font-semibold px-6 py-3 rounded-lg shadow transition cursor-pointer"
           >
             Envoyer
           </button>

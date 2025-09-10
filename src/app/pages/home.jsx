@@ -1,4 +1,4 @@
-import agroeco from '../assets/agroeco.jpg';
+import ujpod from '../assets/ujpod.jpg';
 
 function Home() {
   return (
@@ -6,7 +6,7 @@ function Home() {
       <div className="bg-gray-50 max-w-6xl mx-auto px-6 py-12 grid md:grid-cols-2 gap-10 items-center">
         <div>
           <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            Vie <span className="text-green-700">Cultre</span> <span className="text-yellow-300">Environement</span>
+            Vie <span className="text-green-700">Cultre</span> <span className="text-yellow-400">Environement</span>
           </h1>
           <p className="text-lg text-gray-700 leading-relaxed mb-6">
             L'Association <span className="font-semibold text-green-700">VICE Togo </span> 
@@ -19,10 +19,10 @@ function Home() {
           </p>
 
           <div className="mt-6 flex gap-4">
-            <a href="#donate" className="px-6 py-3 bg-green-700 text-white rounded-lg shadow hover:bg-green-700 transition cursor-pointer">
+            <a href="#donate" className="px-6 py-3 bg-green-700 text-white font-semibold rounded-lg shadow hover:bg-green-700 transition cursor-pointer">
               Faire un don
             </a>
-            <a href="#contact" className="px-6 py-3 border border-green-700 text-green-700 rounded-lg hover:bg-green-50 transition cursor-pointer">
+            <a href="#contact" className="px-6 py-3 border border-green-700 font-semibold text-green-700 rounded-lg hover:bg-green-50 transition cursor-pointer">
               Nous contacter
             </a>
           </div>
@@ -30,7 +30,7 @@ function Home() {
 
         <div className="flex justify-center">
           <img 
-            src={agroeco} 
+            src={ujpod.src} 
             alt="agro" 
             className="rounded-2xl shadow-lg w-full max-w-md object-cover"
           />
