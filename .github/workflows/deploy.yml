@@ -3,29 +3,34 @@ name: Deploy to Hostinger
 on:
   push:
     branches:
-      - main  # ou master selon ton dépôt
+      - main
 
 jobs:
-  ftp-deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Generate version file
-      run: |
-        echo "App: vicetogo.karuidesu.org" > version.txt
-        echo "Commit: $GITHUB_SHA" >> version.txt
-        echo "Date: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> version.txt
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
+      - name: Install dependencies
+        run: npm install
 
-    - name: FTP Deploy
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-      with:
-        server: ${{ secrets.FTP_HOST }}
-        username: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
-        port: ${{ secrets.FTP_PORT }}
-        local-dir: ./        # dossier local à déployer
-        server-dir: /public_html/vicetogo/    # dossier distant sur Hostinger  //ajouter public_html/vicetogo quand ce sera prêt
+      - name: Build project
+        run: npm run build
+
+      - name: FTP Deploy
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: ${{ secrets.FTP_PORT }}
+          local-dir: ./
+          server-dir: /public_html/vicetogo/    # dossier distant sur Hostinger  //ajouter public_html/vicetogo quand ce sera prêt
+
