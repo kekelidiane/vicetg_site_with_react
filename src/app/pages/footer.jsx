@@ -20,7 +20,7 @@ function Footer() {
           <h2 className="text-xl font-semibold mb-4 text-yellow-400">Nous découvrir</h2>
           <ul className="space-y-2">
             <li><a href="#about" className="hover:text-yellow-300">A propos</a></li>
-            <li><a href="#" className="hover:text-yellow-300">Nos activités</a></li>
+            <li><a href="#blog" className="hover:text-yellow-300">Nos activités</a></li>
             <li><a href="#" className="hover:text-yellow-300">Nos produits maraîchers</a></li>
             <li><a href="#contact" className="hover:text-yellow-300">Nous contacter</a></li>
           </ul>

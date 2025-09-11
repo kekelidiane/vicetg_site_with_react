@@ -31,6 +31,6 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           port: ${{ secrets.FTP_PORT }}
-          local-dir: ./build/     #parce que j'utilise React sinon vide
+          local-dir: ./
           server-dir: /public_html/vicetogo/    # dossier sur Hostinger  **ajouter /vicetogo quand ce sera prêt
 
