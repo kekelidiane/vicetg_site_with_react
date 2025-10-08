@@ -1,6 +1,11 @@
-# VICE-TOGO
+# VICE TOGO
 
-**Site web de l'association VICE-TOGO** développé avec **React** et **Tailwind CSS**
+**Site web de l'association VICE TOGO** développé avec **React** et **Tailwind CSS**
+
+
+## Prérequis
+* Node js
+* Next js
 
 
 ## Installation
@@ -22,7 +27,9 @@ yarn install
 3. Lancer le projet en mode développement :
 
 ```bash
-npm start
+npm start 
+# ou
+npm run dev
 # ou
 yarn start
 ```
@@ -52,6 +59,6 @@ Le site sera accessible sur [http://localhost:3000](http://localhost:3000).
 3. Committer vos changements
 4. Ouvrir une Pull Request
 
-© 2025 VICE-TOGO
+© 2025 VICE TOGO
 
 # *_ARIGATO_*
