@@ -84,8 +84,7 @@ Le site sera accessible sur http://127.0.0.1:8000
 
 ## Structure du projet
 
-mon_projet/
-│
+```bash
 ├── backend/            
 │   ├── article/           # gestion des articles
 │   ├── auth/              # authentification
@@ -95,14 +94,14 @@ mon_projet/
 │
 ├── frontend/ 
 │   ├── public/ 
-|   |   ├── assets          # fichiers statiques
-|   ├── src/
-│   |   ├── app/            # principal
-│   |   ├── components/     # composants React
-│   |   |   ├── ui/         # composants reutilisables
-│   └──
+|   |   └── assets          # fichiers statiques
+|   └── src/
+│       ├── app/            # principal
+│       └── components/     # composants React
+│          └── ui/         # composants reutilisables
+│   
 └── README.md              
-
+```
 
 ## Contribution ?
 
