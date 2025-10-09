@@ -1,14 +1,13 @@
 import { FaGithub, FaLinkedin, FaYoutube, FaInstagram, FaFacebook, FaTwitter } from 'react-icons/fa';
 
-
 function Footer() {
   return (
     <footer className="bg-green-700 text-white py-10 px-6 md:px-12 lg:px-24">
-
-      <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-8">
+      
+      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
 
         {/* Bloc VICE TOGO */}
-        <div>
+        <div className="text-center md:text-left">
           <h2 className="text-xl font-semibold mb-4 text-yellow-400">Et vous ?</h2>
           <p className="font-bold mb-6">
             Rejoignez notre association pour<br /> qu'ensemble, nous contribuions<br /> à un monde meilleur.
@@ -16,18 +15,18 @@ function Footer() {
         </div>
 
         {/* Bloc Liens */}
-        <div>
+        <div className="text-center md:text-left">
           <h2 className="text-xl font-semibold mb-4 text-yellow-400">Nous découvrir</h2>
           <ul className="space-y-2">
-            <li><a href="#about" className="hover:text-yellow-300">A propos</a></li>
-            <li><a href="#blog" className="hover:text-yellow-300">Nos activités</a></li>
-            <li><a href="#" className="hover:text-yellow-300">Nos produits maraîchers</a></li>
-            <li><a href="#contact" className="hover:text-yellow-300">Nous contacter</a></li>
+            <li><a href="#about" className="hover:text-yellow-300 transition">A propos</a></li>
+            <li><a href="#blog" className="hover:text-yellow-300 transition">Nos activités</a></li>
+            <li><a href="#" className="hover:text-yellow-300 transition">Nos produits maraîchers</a></li>
+            <li><a href="#contact" className="hover:text-yellow-300 transition">Nous contacter</a></li>
           </ul>
         </div>
 
         {/* Bloc Newsletter & Réseaux */}
-        <div>
+        <div className="text-center md:text-left">
           <h2 className="text-xl font-semibold mb-4 text-yellow-400">S'abonner à notre newsletter</h2>
           <form className="flex flex-col sm:flex-row gap-4 mb-6">
             <input
@@ -43,27 +42,28 @@ function Footer() {
             </button>
           </form>
 
-          <div className="flex items-center gap-4">
-            <h2 className="text-xl font-semibold text-yellow-400">Suivez-nous sur</h2>
-
-            <div className="flex gap-4 text-2xl">
-              <a href="https://www.facebook.com/vicetogo" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400"> <FaFacebook /> </a>
-              {/* <a href="https://www.instagram.com/vicetogo" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400"><FaInstagram /></a>
-              <a href="https://www.linkedin.com/in/vicetogo" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400"><FaLinkedin /></a>
-              <a href="https://www.youtube.com/@vicetogo" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400"><FaYoutube /></a> */}
+          <div className="flex flex-col sm:flex-row sm:items-center sm:gap-4">
+            <span className="text-yellow-400 font-semibold mb-2 sm:mb-0">Suivez-nous sur</span>
+            <div className="flex gap-4 text-2xl justify-center sm:justify-start">
+              <a href="https://www.facebook.com/vicetogo" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400 transition"><FaFacebook /></a>
+              {/* <a href="https://www.instagram.com/vicetogo" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400 transition"><FaInstagram /></a>
+              <a href="https://www.linkedin.com/in/vicetogo" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400 transition"><FaLinkedin /></a>
+              <a href="https://www.youtube.com/@vicetogo" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400 transition"><FaYoutube /></a>
+              <a href="https://twitter.com/vicetogo" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400 transition"><FaTwitter /></a> */}
             </div>
           </div>
         </div>
+
       </div>
 
       <div className="mt-8 text-center">
         <p className="text-white text-sm">
-          &copy; VICE TOGO 2025 | Tous droits réservés. Fait par{" "}
+          &copy; VICE TOGO 2025 | Tous droits réservés. Réalisé par{" "}
           <a
             href="https://karuidesu.org"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-yellow-300 hover:text-white cursor-pointer"
+            className="text-yellow-300 hover:text-white transition cursor-pointer"
           >
             @karuidesu
           </a>

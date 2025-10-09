@@ -1,7 +1,7 @@
 import Home from '../components/home';
 import About from '../components/about';
 import Donate from '../components/donate';
-import Blog from '../components/blogs';
+import Blog from '../components/blog';
 import Contact from '../components/contact';
 import Footer from '../components/footer';
 import Navbar from '../components/navbar'
@@ -22,8 +22,8 @@ function App() {
       <main>
         <Home />
         <About />
-        <Donate />
         <Blog />
+        <Donate />
         <Contact />
         <Footer />
       </main>

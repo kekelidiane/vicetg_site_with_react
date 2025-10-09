@@ -28,3 +28,31 @@ body {
 .cadre {
   scroll-margin-top: 4rem; /* ou la hauteur exacte du header */
 }
+
+/* PROBLEME 
+Les sites à scroll avec ancres (#about, #contact, etc.) : quand tu cliques sur un lien,
+le navigateur fait défiler le bloc vers le haut de la page sous le navbar, et donc le titre est caché.
+
+Donc pour corriger le problème, il faut ajouter un offset équivalent à la hauteur du navbar. 
+SOLUTION CI - DESSOUS
+Pour Accueil ajouter un offset invisible au dessus des layouts cf home.jsx
+
+Debut  */
+
+html {
+  scroll-padding-top: 4rem; /* mobile : 64px */
+}
+
+@media (min-width: 768px) {
+  html {
+    scroll-padding-top: 4.5rem; /* md : 72px */
+  }
+}
+
+@media (min-width: 1024px) {
+  html {
+    scroll-padding-top: 5rem; /* lg : 80px */
+  }
+}
+
+/* Fin */
