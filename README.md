@@ -82,15 +82,28 @@ Le site sera accessible sur http://127.0.0.1:8000
 - Redoc : http://127.0.0.1:8000/redoc
 
 
-## Utilisation
+## Structure du projet
 
-* Navigation via la barre en haut : Accueil, A propos, Soutenir, Actualités, Contact.
-* Sections responsives adaptées aux mobiles.
-* Section Partenaires avec logos des partenaires.
-* Formulaire de contact pour envoyer des messages.
+```bash
+├── backend/            
+│   ├── article/           # gestion des articles
+│   ├── auth/              # authentification
+│   ├── core/              # configuration de la base de donnee
+│   ├── env/               # environnement virtuel 
+│   └── requirements.txt  
+│
+├── frontend/ 
+│   ├── public/ 
+|   |   └── assets          # fichiers statiques
+|   └── src/
+│       ├── app/            # principal
+│       └── components/     # composants React
+│          └── ui/         # composants reutilisables
+│   
+└── README.md              
+```
 
-
-## Contribuer
+## Contribution ?
 
 1. Forker le dépôt
 2. Créer une branche pour vos modifications

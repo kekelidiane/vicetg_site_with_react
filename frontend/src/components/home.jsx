@@ -11,8 +11,7 @@ function Home() {
         {/* Texte */}
         <div>
           <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            Vie <span className="text-green-700">Culture</span>{" "}
-            <span className="text-yellow-400">Environnement</span>
+            Vie <span className="text-green-700">Culture</span> <span className="text-yellow-400">Environnement</span>
           </h1>
 
           <p className="text-lg text-gray-700 leading-relaxed mb-4">

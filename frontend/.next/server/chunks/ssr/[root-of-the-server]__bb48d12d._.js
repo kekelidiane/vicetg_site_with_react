@@ -52,8 +52,8 @@ function Home() {
                                         children: "Environnement"
                                     }, void 0, false, {
                                         fileName: "[project]/frontend/src/components/home.jsx",
-                                        lineNumber: 15,
-                                        columnNumber: 13
+                                        lineNumber: 14,
+                                        columnNumber: 65
                                     }, this)
                                 ]
                             }, void 0, true, {
@@ -70,7 +70,7 @@ function Home() {
                                         children: "VICE Togo"
                                     }, void 0, false, {
                                         fileName: "[project]/frontend/src/components/home.jsx",
-                                        lineNumber: 19,
+                                        lineNumber: 18,
                                         columnNumber: 27
                                     }, this),
                                     " ",
@@ -78,7 +78,7 @@ function Home() {
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/frontend/src/components/home.jsx",
-                                lineNumber: 18,
+                                lineNumber: 17,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -86,7 +86,7 @@ function Home() {
                                 children: "Vous pouvez soutenir notre association en faisant un don, en devenant bénévole ou en partageant notre cause avec votre entourage."
                             }, void 0, false, {
                                 fileName: "[project]/frontend/src/components/home.jsx",
-                                lineNumber: 24,
+                                lineNumber: 23,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -98,7 +98,7 @@ function Home() {
                                         children: "Faire un don"
                                     }, void 0, false, {
                                         fileName: "[project]/frontend/src/components/home.jsx",
-                                        lineNumber: 30,
+                                        lineNumber: 29,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -107,13 +107,13 @@ function Home() {
                                         children: "Nous contacter"
                                     }, void 0, false, {
                                         fileName: "[project]/frontend/src/components/home.jsx",
-                                        lineNumber: 36,
+                                        lineNumber: 35,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/frontend/src/components/home.jsx",
-                                lineNumber: 29,
+                                lineNumber: 28,
                                 columnNumber: 11
                             }, this)
                         ]
@@ -133,17 +133,17 @@ function Home() {
                                 className: "object-cover"
                             }, void 0, false, {
                                 fileName: "[project]/frontend/src/components/home.jsx",
-                                lineNumber: 48,
+                                lineNumber: 47,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/frontend/src/components/home.jsx",
-                            lineNumber: 47,
+                            lineNumber: 46,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/frontend/src/components/home.jsx",
-                        lineNumber: 46,
+                        lineNumber: 45,
                         columnNumber: 9
                     }, this)
                 ]
