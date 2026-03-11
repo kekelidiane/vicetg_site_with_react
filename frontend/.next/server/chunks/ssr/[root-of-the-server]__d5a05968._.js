@@ -52,8 +52,8 @@ function Home() {
                                         children: "Environnement"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/home.jsx",
-                                        lineNumber: 15,
-                                        columnNumber: 13
+                                        lineNumber: 14,
+                                        columnNumber: 65
                                     }, this)
                                 ]
                             }, void 0, true, {
@@ -70,7 +70,7 @@ function Home() {
                                         children: "VICE Togo"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/home.jsx",
-                                        lineNumber: 19,
+                                        lineNumber: 18,
                                         columnNumber: 27
                                     }, this),
                                     " ",
@@ -78,7 +78,7 @@ function Home() {
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/home.jsx",
-                                lineNumber: 18,
+                                lineNumber: 17,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -86,7 +86,7 @@ function Home() {
                                 children: "Vous pouvez soutenir notre association en faisant un don, en devenant bénévole ou en partageant notre cause avec votre entourage."
                             }, void 0, false, {
                                 fileName: "[project]/src/components/home.jsx",
-                                lineNumber: 24,
+                                lineNumber: 23,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -98,7 +98,7 @@ function Home() {
                                         children: "Faire un don"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/home.jsx",
-                                        lineNumber: 30,
+                                        lineNumber: 29,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -107,13 +107,13 @@ function Home() {
                                         children: "Nous contacter"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/home.jsx",
-                                        lineNumber: 36,
+                                        lineNumber: 35,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/home.jsx",
-                                lineNumber: 29,
+                                lineNumber: 28,
                                 columnNumber: 11
                             }, this)
                         ]
@@ -133,17 +133,17 @@ function Home() {
                                 className: "object-cover"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/home.jsx",
-                                lineNumber: 48,
+                                lineNumber: 47,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/home.jsx",
-                            lineNumber: 47,
+                            lineNumber: 46,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/components/home.jsx",
-                        lineNumber: 46,
+                        lineNumber: 45,
                         columnNumber: 9
                     }, this)
                 ]
@@ -215,87 +215,6 @@ function About() {
         id: "about",
         className: "bg-gray-50 py-24 px-6 md:px-12 lg:px-24 space-y-24",
         children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "max-w-3xl mx-auto text-center",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                        className: "text-3xl md:text-4xl font-bold text-green-700 mb-4",
-                        children: "Nos actions"
-                    }, void 0, false, {
-                        fileName: "[project]/src/components/about.jsx",
-                        lineNumber: 10,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-gray-700 text-lg md:text-xl leading-relaxed",
-                        children: [
-                            "L'association ",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                className: "font-semibold text-green-700",
-                                children: "VICE TOGO"
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/about.jsx",
-                                lineNumber: 14,
-                                columnNumber: 25
-                            }, this),
-                            " agit principalement dans deux domaines :"
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/src/components/about.jsx",
-                        lineNumber: 13,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "[project]/src/components/about.jsx",
-                lineNumber: 9,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "grid md:grid-cols-2 gap-6 max-w-4xl mx-auto",
-                children: [
-                    {
-                        title: 'ÉDUCATION',
-                        color: 'green-700',
-                        border: 'yellow-400',
-                        text: "Nous soutenons la formation des jeunes à travers des programmes d'alphabétisation, des ateliers numériques et des bourses scolaires afin de favoriser l'accès équitable au savoir."
-                    },
-                    {
-                        title: 'ENVIRONNEMENT',
-                        color: 'green-700',
-                        border: 'yellow-400',
-                        text: "Nous agissons pour la protection de la nature à travers des campagnes de reboisement, la sensibilisation à la gestion des déchets et la promotion d'initiatives écoresponsables."
-                    }
-                ].map((action)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "bg-white shadow-md rounded-2xl p-6 hover:shadow-lg transition flex flex-col",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                className: `text-xl font-bold text-${action.color} mb-4 inline-block border-b-4 border-${action.border} pb-1 w-fit mx-auto`,
-                                children: action.title
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/about.jsx",
-                                lineNumber: 35,
-                                columnNumber: 13
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-700 text-sm leading-relaxed flex-1",
-                                children: action.text
-                            }, void 0, false, {
-                                fileName: "[project]/src/components/about.jsx",
-                                lineNumber: 38,
-                                columnNumber: 13
-                            }, this)
-                        ]
-                    }, action.title, true, {
-                        fileName: "[project]/src/components/about.jsx",
-                        lineNumber: 34,
-                        columnNumber: 11
-                    }, this))
-            }, void 0, false, {
-                fileName: "[project]/src/components/about.jsx",
-                lineNumber: 19,
-                columnNumber: 7
-            }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "bg-white py-16 px-6 md:px-12 rounded-2xl shadow-md",
                 children: [
@@ -752,36 +671,34 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.js [app-rsc] (ecmascript)");
+;
 ;
 ;
 function Blog() {
     const articles = [
         {
             title: "Nos récoltes de cette saison",
+            slug: "recoltes-2023",
             date: "20 Juin 2023",
             author: "Diane",
             text: "Investir dans notre association peut transformer des vies.",
             image: "/assets/agro/filles.jpg"
         },
         {
-            title: "Nos récoltes de cette saison",
-            date: "20 Juin 2023",
-            author: "Diane",
-            text: "Investir dans notre association peut transformer des vies.",
+            title: "Atelier d’éducation écologique",
+            slug: "atelier-ecologique",
+            date: "15 Mai 2023",
+            author: "Marc",
+            text: "Sensibiliser les jeunes à la protection de l’environnement dès le plus jeune âge.",
             image: "/assets/agro/filles.jpg"
         },
         {
-            title: "Nos récoltes de cette saison",
-            date: "20 Juin 2023",
-            author: "Diane",
-            text: "Investir dans notre association peut transformer des vies.",
-            image: "/assets/agro/filles.jpg"
-        },
-        {
-            title: "Nos récoltes de cette saison",
-            date: "20 Juin 2023",
-            author: "Diane",
-            text: "Investir dans notre association peut transformer des vies.",
+            title: "Projet de reboisement communautaire",
+            slug: "reboisement-communautaire",
+            date: "10 Avril 2023",
+            author: "Claire",
+            text: "Des centaines d’arbres plantés grâce à la mobilisation locale et aux bénévoles.",
             image: "/assets/agro/filles.jpg"
         }
     ];
@@ -794,33 +711,33 @@ function Blog() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         className: "text-3xl md:text-4xl font-bold text-green-700 mb-4",
-                        children: "Notre blog d'activités"
+                        children: "Consultez notre blog"
                     }, void 0, false, {
                         fileName: "[project]/src/components/blog.jsx",
-                        lineNumber: 40,
+                        lineNumber: 35,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-gray-700 text-lg md:text-xl leading-relaxed",
-                        children: "Découvrez nos actualités : activités scolaires et projets environnementaux."
+                        children: "Découvrez nos activités scolaires, environnementales et de sensibilisation."
                     }, void 0, false, {
                         fileName: "[project]/src/components/blog.jsx",
-                        lineNumber: 43,
+                        lineNumber: 38,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/blog.jsx",
-                lineNumber: 39,
+                lineNumber: 34,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "grid md:grid-cols-2 gap-8 max-w-6xl mx-auto",
+                className: "grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto",
                 children: articles.map((article, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "flex flex-col md:flex-row items-start bg-white rounded-xl shadow-md p-4 hover:shadow-lg transition gap-4",
+                        className: "bg-white rounded-2xl shadow-md hover:shadow-xl overflow-hidden transition flex flex-col",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "relative w-full md:w-32 h-48 md:h-24 flex-shrink-0 rounded-md overflow-hidden",
+                                className: "relative w-full h-56",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                     src: article.image,
                                     alt: article.title,
@@ -828,52 +745,60 @@ function Blog() {
                                     className: "object-cover"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/blog.jsx",
-                                    lineNumber: 55,
+                                    lineNumber: 52,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/components/blog.jsx",
-                                lineNumber: 54,
+                                lineNumber: 51,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "flex-1",
+                                className: "p-6 flex flex-col flex-grow",
                                 children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                        className: "text-xl font-semibold text-green-700 hover:text-yellow-500 transition mb-1",
-                                        children: article.title
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                        href: `/articles/${article.slug}`,
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                            className: "text-xl font-semibold text-green-700 hover:text-yellow-500 transition mb-2 cursor-pointer",
+                                            children: article.title
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/blog.jsx",
+                                            lineNumber: 63,
+                                            columnNumber: 17
+                                        }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/blog.jsx",
-                                        lineNumber: 65,
+                                        lineNumber: 62,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "text-sm text-yellow-500 mb-2",
+                                        className: "text-sm text-yellow-500 mb-3",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 children: article.date
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/blog.jsx",
-                                                lineNumber: 69,
+                                                lineNumber: 68,
                                                 columnNumber: 17
                                             }, this),
-                                            " par ",
+                                            " par",
+                                            " ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 className: "text-green-700",
                                                 children: article.author
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/blog.jsx",
                                                 lineNumber: 69,
-                                                columnNumber: 49
+                                                columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/blog.jsx",
-                                        lineNumber: 68,
+                                        lineNumber: 67,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "text-gray-700",
+                                        className: "text-gray-700 flex-grow",
                                         children: article.text
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/blog.jsx",
@@ -883,24 +808,40 @@ function Blog() {
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/blog.jsx",
-                                lineNumber: 64,
+                                lineNumber: 61,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, idx, true, {
                         fileName: "[project]/src/components/blog.jsx",
-                        lineNumber: 51,
+                        lineNumber: 46,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/src/components/blog.jsx",
-                lineNumber: 49,
+                lineNumber: 44,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "text-center mt-12",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                    href: "/articles",
+                    className: "inline-block bg-green-700 text-white font-semibold px-8 py-3 rounded-lg shadow hover:bg-green-800 transition",
+                    children: "Voir plus d'articles"
+                }, void 0, false, {
+                    fileName: "[project]/src/components/blog.jsx",
+                    lineNumber: 79,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/src/components/blog.jsx",
+                lineNumber: 78,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/blog.jsx",
-        lineNumber: 37,
+        lineNumber: 33,
         columnNumber: 5
     }, this);
 }
@@ -1179,10 +1120,10 @@ function Footer() {
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     className: "text-white text-sm",
                     children: [
-                        "© VICE TOGO 2025 | Tous droits réservés. Fait par",
+                        "© VICE TOGO 2025 | Tous droits réservés. Réalisé par",
                         " ",
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                            href: "https://karuidesu.org",
+                            href: "https://bento.me/karuidesu",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "text-yellow-300 hover:text-white transition cursor-pointer",

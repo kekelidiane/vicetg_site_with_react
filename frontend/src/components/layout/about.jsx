@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Counter from '../components/ui/counter';
+import Counter from '../ui/counter';
 
 function About() {
   

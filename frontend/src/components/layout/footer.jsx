@@ -6,7 +6,7 @@ function Footer() {
       
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
 
-        {/* Bloc VICE TOGO */}
+        {/* bloc à gauche */}
         <div className="text-center md:text-left">
           <h2 className="text-xl font-semibold mb-4 text-yellow-400">Et vous ?</h2>
           <p className="font-bold mb-6">
@@ -14,7 +14,7 @@ function Footer() {
           </p>
         </div>
 
-        {/* Bloc Liens */}
+        {/* bloc Liens */}
         <div className="text-center md:text-left">
           <h2 className="text-xl font-semibold mb-4 text-yellow-400">Nous découvrir</h2>
           <ul className="space-y-2">
@@ -25,7 +25,7 @@ function Footer() {
           </ul>
         </div>
 
-        {/* Bloc Newsletter & Réseaux */}
+        {/* bloc à droite */}
         <div className="text-center md:text-left">
           <h2 className="text-xl font-semibold mb-4 text-yellow-400">S'abonner à notre newsletter</h2>
           <form className="flex flex-col sm:flex-row gap-4 mb-6">
@@ -60,7 +60,7 @@ function Footer() {
         <p className="text-white text-sm">
           &copy; VICE TOGO 2025 | Tous droits réservés. Réalisé par{" "}
           <a
-            href="https://karuidesu.org"
+            href="https://bento.me/karuidesu"
             target="_blank"
             rel="noopener noreferrer"
             className="text-yellow-300 hover:text-white transition cursor-pointer"

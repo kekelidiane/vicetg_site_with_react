@@ -1,11 +1,12 @@
 import Image from "next/image";
+import Link from 'next/link'
 
 function Donate() {
   const actions = [
     {
       emoji: "💚",
       title: "Faire un don",
-      link: "http://wa.me/22896285094",
+      link: "/donation",
       description: "Soutenez notre cause en contribuant financièrement pour l’avenir des enfants et la planète."
     },
     {

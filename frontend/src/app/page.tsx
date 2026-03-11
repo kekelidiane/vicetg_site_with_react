@@ -1,10 +1,10 @@
-import Home from '../components/home';
-import About from '../components/about';
-import Donate from '../components/donate';
-import Blog from '../components/blog';
-import Contact from '../components/contact';
-import Footer from '../components/footer';
-import Navbar from '../components/navbar'
+import Home from '../components/layout/home';
+import About from '../components/layout/about';
+import Donate from '../components/layout/donate';
+import Blog from '../components/layout/blog';
+import Contact from '../components/layout/contact';
+import Footer from '../components/layout/footer';
+import Navbar from '../components/layout/navbar'
 
 <link rel="icon" href="/favicon.ico" />
 
@@ -21,9 +21,9 @@ function App() {
 
       <main>
         <Home />
-        <About />
-        <Blog />
+        <About />        
         <Donate />
+        <Blog />
         <Contact />
         <Footer />
       </main>

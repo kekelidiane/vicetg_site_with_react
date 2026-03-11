@@ -327,17 +327,20 @@ function createIpc(port) {
         },
         sendReady,
         async sendError (error) {
+            let failed = false;
             try {
                 await send({
                     type: 'error',
                     ...structuredError(error)
                 });
             } catch (err) {
+                // There's nothing we can do about errors that happen after this point, we can't tell anyone
+                // about them.
                 console.error('failed to send error back to rust:', err);
-                // ignore and exit anyway
-                process.exit(1);
+                failed = true;
             }
-            process.exit(0);
+            await new Promise((res)=>socket.end(()=>res()));
+            process.exit(failed ? 1 : 0);
         }
     };
 }
