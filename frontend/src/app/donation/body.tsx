@@ -75,7 +75,15 @@ export default function DonateBody() {
                                 height={40}
                                 className="w-20 h-20 object-contain"
                             />
-                            <span className="text-2xl font-bold text-green-600 text-center"> Relevé d'Identité Bancaire </span>
+                            <a
+                                href="/assets/docs/rib_coopec.pdf"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="cursor-pointer">
+                                <span className="text-2xl font-bold text-green-600 hover:text-yellow-500 text-center">
+                                    Relevé d'Identité Bancaire
+                                </span>
+                            </a>
                         </div>
                     </div>
 

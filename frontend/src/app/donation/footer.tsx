@@ -57,7 +57,7 @@ function Footer() {
 
       <div className="mt-8 text-center">
         <p className="text-white text-sm">
-          &copy; VICE TOGO 2025 | Tous droits réservés. Réalisé par{" "}
+          &copy; VICE TOGO 2026 | Tous droits réservés. Réalisé par{" "}
           <a
             href="https://linktr.ee/karuidesu"
             target="_blank"

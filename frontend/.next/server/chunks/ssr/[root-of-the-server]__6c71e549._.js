@@ -185,9 +185,19 @@ function DonateBody() {
                                             lineNumber: 71,
                                             columnNumber: 29
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "text-2xl font-bold text-green-600 text-center",
-                                            children: " Relevé d'Identité Bancaire "
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                            href: "/assets/docs/rib_coopec.pdf",
+                                            target: "_blank",
+                                            rel: "noopener noreferrer",
+                                            className: "cursor-pointer",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                className: "text-2xl font-bold text-green-600 hover:text-yellow-500 text-center",
+                                                children: "Relevé d'Identité Bancaire"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/donation/body.tsx",
+                                                lineNumber: 83,
+                                                columnNumber: 33
+                                            }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/donation/body.tsx",
                                             lineNumber: 78,
@@ -446,7 +456,7 @@ function Footer() {
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     className: "text-white text-sm",
                     children: [
-                        "© VICE TOGO 2025 | Tous droits réservés. Réalisé par",
+                        "© VICE TOGO 2026 | Tous droits réservés. Réalisé par",
                         " ",
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                             href: "https://linktr.ee/karuidesu",
