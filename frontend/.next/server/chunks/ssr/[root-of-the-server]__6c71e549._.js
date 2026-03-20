@@ -19,9 +19,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$imag
 ;
 function DonateBody() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: "bg-white",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "max-w-6xl mx-auto px-6 py-4 flex items-center relative",
+                className: "bg-white max-w-6xl mx-auto px-6 py-4 flex items-center relative",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -34,75 +35,74 @@ function DonateBody() {
                                 className: "h-10 md:h-12 lg:h-14 w-auto"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/donation/body.tsx",
-                                lineNumber: 11,
+                                lineNumber: 10,
                                 columnNumber: 25
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/donation/body.tsx",
-                            lineNumber: 10,
+                            lineNumber: 9,
                             columnNumber: 21
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/donation/body.tsx",
-                        lineNumber: 9,
+                        lineNumber: 8,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "absolute left-1/2 transform -translate-x-1/2 text-center",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "text-3xl md:text-2xl font-bold text-gray-800",
-                            children: "Votre soutien compte énormément"
+                            className: "text-2xl md:text-3xl font-bold text-gray-800",
+                            children: "Ensemble, changeons des vies"
                         }, void 0, false, {
                             fileName: "[project]/src/app/donation/body.tsx",
-                            lineNumber: 22,
+                            lineNumber: 21,
                             columnNumber: 21
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/donation/body.tsx",
-                        lineNumber: 21,
+                        lineNumber: 20,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/donation/body.tsx",
-                lineNumber: 7,
+                lineNumber: 6,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "bg-gray-50 py-16 px-6 md:px-12 lg:px-24",
+                className: "bg-white py-10 px-6 md:px-12 rounded-2xl shadow-md lg:px-24",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "text-center mb-12",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                className: "text-3xl md:text-4xl font-bold text-gray-800 mb-4",
-                                children: "Aidons les 💚"
-                            }, void 0, false, {
-                                fileName: "[project]/src/app/donation/body.tsx",
-                                lineNumber: 32,
-                                columnNumber: 21
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-600 max-w-2xl mx-auto",
-                                children: "Votre soutien compte énormément. Grâce à vos dons, nous pouvons continuer nos actions et aider encore plus de personnes, d'enfants."
-                            }, void 0, false, {
-                                fileName: "[project]/src/app/donation/body.tsx",
-                                lineNumber: 35,
-                                columnNumber: 21
-                            }, this)
-                        ]
-                    }, void 0, true, {
+                        className: "text-center mb-16 max-w-3xl mx-auto",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            className: "text-gray-600 text-lg leading-relaxed mb-4",
+                            children: "Un simple geste peut nourrir, soigner ou scolariser un enfant 🤲. Ce qui peut sembler petit pour vous représente énormément pour eux."
+                        }, void 0, false, {
+                            fileName: "[project]/src/app/donation/body.tsx",
+                            lineNumber: 30,
+                            columnNumber: 21
+                        }, this)
+                    }, void 0, false, {
                         fileName: "[project]/src/app/donation/body.tsx",
-                        lineNumber: 31,
+                        lineNumber: 29,
+                        columnNumber: 17
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        className: "text-center text-lg font-semibold text-gray-700 mb-12",
+                        children: "Même 1 000 FCFA peut nourrir un enfant pendant plusieurs jours. Faites un don maintenant et changez une vie 💚"
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/donation/body.tsx",
+                        lineNumber: 36,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "grid grid-cols-1 md:grid-cols-3 md:gap-10 mb-5",
+                        className: "grid grid-cols-1 md:grid-cols-3 md:gap-10 mb-10",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "border rounded-xl p-4 shadow-sm bg-white max-w-xs mx-auto",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "flex items-center gap-4",
+                                className: "border rounded-xl p-4 shadow-sm bg-white max-w-xs mx-auto hover:shadow-md hover:-translate-y-1 transition duration-300",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                    href: "tel:+22896285094",
+                                    className: "flex flex-col items-center gap-3 text-center",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                             src: "/assets/logos/Moov_money.jpeg",
@@ -116,11 +116,19 @@ function DonateBody() {
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "text-2xl font-bold text-green-600",
-                                            children: " +228 96285094 "
+                                            className: "text-xl font-bold text-green-600",
+                                            children: "+228 96285094"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/donation/body.tsx",
                                             lineNumber: 52,
+                                            columnNumber: 29
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "text-sm text-gray-500",
+                                            children: "Envoyez votre don via Flooz"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/donation/body.tsx",
+                                            lineNumber: 55,
                                             columnNumber: 29
                                         }, this)
                                     ]
@@ -135,44 +143,56 @@ function DonateBody() {
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "border rounded-xl p-4 shadow-sm bg-white max-w-xs mx-auto",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "flex items-center gap-4",
+                                className: "border rounded-xl p-4 shadow-sm bg-white max-w-xs mx-auto hover:shadow-md hover:-translate-y-1 transition duration-300",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                    href: "tel:+22892731790",
+                                    className: "flex flex-col items-center gap-3 text-center",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                             src: "/assets/logos/Mixx_by_Yas.jpg",
-                                            alt: "TMoney",
+                                            alt: "Mixx",
                                             width: 40,
                                             height: 40,
                                             className: "w-20 h-20 object-contain"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/donation/body.tsx",
-                                            lineNumber: 58,
+                                            lineNumber: 63,
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "text-2xl font-bold text-green-600",
-                                            children: " +228 92731790 "
+                                            className: "text-xl font-bold text-green-600",
+                                            children: "+228 92731790"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/donation/body.tsx",
-                                            lineNumber: 65,
+                                            lineNumber: 70,
+                                            columnNumber: 29
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "text-sm text-gray-500",
+                                            children: "Envoyez votre don via Tmoney"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/donation/body.tsx",
+                                            lineNumber: 73,
                                             columnNumber: 29
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/donation/body.tsx",
-                                    lineNumber: 57,
+                                    lineNumber: 62,
                                     columnNumber: 25
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/donation/body.tsx",
-                                lineNumber: 56,
+                                lineNumber: 61,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "border rounded-xl p-4 shadow-sm bg-white max-w-xs mx-auto",
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "flex items-center gap-4",
+                                className: "border rounded-xl p-4 shadow-sm bg-white max-w-xs mx-auto hover:shadow-md hover:-translate-y-1 transition duration-300",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                    href: "/assets/docs/rib_coopec.pdf",
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    className: "flex flex-col items-center gap-3 text-center",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                             src: "/assets/logos/transactions-bank.jpg",
@@ -182,36 +202,34 @@ function DonateBody() {
                                             className: "w-20 h-20 object-contain"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/donation/body.tsx",
-                                            lineNumber: 71,
+                                            lineNumber: 86,
                                             columnNumber: 29
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                            href: "/assets/docs/rib_coopec.pdf",
-                                            target: "_blank",
-                                            rel: "noopener noreferrer",
-                                            className: "cursor-pointer",
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "text-2xl font-bold text-green-600 hover:text-yellow-500 text-center",
-                                                children: "Relevé d'Identité Bancaire"
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/app/donation/body.tsx",
-                                                lineNumber: 83,
-                                                columnNumber: 33
-                                            }, this)
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "text-xl font-bold text-green-600 hover:text-yellow-500",
+                                            children: "Voir le RIB"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/donation/body.tsx",
-                                            lineNumber: 78,
+                                            lineNumber: 93,
+                                            columnNumber: 29
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "text-sm text-gray-500",
+                                            children: "Effectuez un virement bancaire sécurisé"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/app/donation/body.tsx",
+                                            lineNumber: 96,
                                             columnNumber: 29
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/donation/body.tsx",
-                                    lineNumber: 70,
+                                    lineNumber: 80,
                                     columnNumber: 25
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/donation/body.tsx",
-                                lineNumber: 69,
+                                lineNumber: 79,
                                 columnNumber: 21
                             }, this)
                         ]
@@ -219,11 +237,19 @@ function DonateBody() {
                         fileName: "[project]/src/app/donation/body.tsx",
                         lineNumber: 41,
                         columnNumber: 17
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
+                        className: "font-light text-gray-700 text-center mb-4 max-w-xl mx-auto",
+                        children: "Nous nous engageons à utiliser chaque don de manière transparente et responsable, pour un impact réel et durable."
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/donation/body.tsx",
+                        lineNumber: 104,
+                        columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/donation/body.tsx",
-                lineNumber: 29,
+                lineNumber: 28,
                 columnNumber: 13
             }, this)
         ]
