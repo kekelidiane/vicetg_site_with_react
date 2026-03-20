@@ -113,7 +113,7 @@ function Contact() {
     };
     const handleSubmit = (e)=>{
         e.preventDefault();
-        // Ici tu peux ajouter la logique d'envoi de mail ou API
+        // logique d'envoi de mail ou API
         setStatus("Votre message a été envoyé avec succès !");
         setFormData({
             nom: "",
@@ -135,7 +135,7 @@ function Contact() {
                         children: "Contactez-nous"
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/contact.jsx",
-                        lineNumber: 29,
+                        lineNumber: 28,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -143,25 +143,25 @@ function Contact() {
                         children: [
                             "Vous avez d'autres questions? ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "http://wa.me/22893203809",
+                                href: "http://wa.me/22892731790",
                                 className: "text-xl font-semibold text-green-700 hover:text-yellow-500 transition mb-1",
                                 children: "Ecrivez-nous"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/contact.jsx",
-                                lineNumber: 33,
+                                lineNumber: 32,
                                 columnNumber: 41
                             }, this),
                             " ou Envoyez-nous un mail !"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/layout/contact.jsx",
-                        lineNumber: 32,
+                        lineNumber: 31,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/layout/contact.jsx",
-                lineNumber: 28,
+                lineNumber: 27,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -181,7 +181,7 @@ function Contact() {
                                 required: true
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/contact.jsx",
-                                lineNumber: 42,
+                                lineNumber: 40,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -194,13 +194,13 @@ function Contact() {
                                 required: true
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/contact.jsx",
-                                lineNumber: 51,
+                                lineNumber: 49,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/layout/contact.jsx",
-                        lineNumber: 41,
+                        lineNumber: 39,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -216,7 +216,7 @@ function Contact() {
                                 required: true
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/contact.jsx",
-                                lineNumber: 63,
+                                lineNumber: 61,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -228,13 +228,13 @@ function Contact() {
                                 className: "border border-gray-300 rounded-lg px-4 py-3 w-full focus:ring-2 focus:ring-green-500 focus:outline-none"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/layout/contact.jsx",
-                                lineNumber: 72,
+                                lineNumber: 70,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/layout/contact.jsx",
-                        lineNumber: 62,
+                        lineNumber: 60,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -247,7 +247,7 @@ function Contact() {
                         required: true
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/contact.jsx",
-                        lineNumber: 82,
+                        lineNumber: 80,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -258,12 +258,12 @@ function Contact() {
                             children: "Envoyer"
                         }, void 0, false, {
                             fileName: "[project]/src/components/layout/contact.jsx",
-                            lineNumber: 93,
+                            lineNumber: 91,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/contact.jsx",
-                        lineNumber: 92,
+                        lineNumber: 90,
                         columnNumber: 9
                     }, this),
                     status && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -271,13 +271,13 @@ function Contact() {
                         children: status
                     }, void 0, false, {
                         fileName: "[project]/src/components/layout/contact.jsx",
-                        lineNumber: 102,
+                        lineNumber: 100,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/layout/contact.jsx",
-                lineNumber: 40,
+                lineNumber: 38,
                 columnNumber: 7
             }, this)
         ]

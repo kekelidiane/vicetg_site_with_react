@@ -12,7 +12,7 @@ function Donate() {
     {
       emoji: "🥗",
       title: "Acheter nos produits",
-      link: "http://wa.me/22896285094",
+      link: "http://wa.me/22892590009",
       description: "Achetez nos légumes et produits issus de l'agriculture bio, cultivés durablement, et soutenez nos actions."
     },
     {
@@ -26,7 +26,6 @@ function Donate() {
   return (
     <div id="donate" className="bg-gray-50 py-16 px-6 md:px-12 lg:px-24">
 
-      {/* Titre */}
       <div className="max-w-3xl mx-auto text-center mb-12">
         <h2 className="text-3xl md:text-4xl font-bold text-green-700 mb-4">
           Soutenez VICE TOGO
@@ -36,7 +35,6 @@ function Donate() {
         </p>
       </div>
 
-      {/* Actions */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
         {actions.map((action, idx) => (
           

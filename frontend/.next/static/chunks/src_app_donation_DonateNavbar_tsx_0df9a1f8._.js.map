@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/DELL/Desktop/PROJECTS/vicetg_site_with_react/frontend/src/app/donation/DonateNavbar.tsx"],"sourcesContent":["'use client';\r\nimport Image from \"next/image\";\r\nimport { useEffect, useState } from \"react\";\r\n\r\nconst sections = [\"home\", \"about\", \"donate\", \"blog\", \"contact\"];\r\n\r\nexport default function DonateNavbar() {\r\n  return (\r\n\r\n      <nav className=\"bg-white shadow-md fixed w-full z-50\">\r\n        <div className=\"max-w-6xl mx-auto px-6 py-4 flex justify-between items-center\">\r\n\r\n          <a href=\"#home\">\r\n            <Image\r\n              src=\"/assets/logos/logo.png\"\r\n              alt=\"Logo\"\r\n              width={56}\r\n              height={56}\r\n              className=\"h-10 md:h-12 lg:h-14 w-auto\"\r\n            />\r\n          </a>\r\n        </div>\r\n      </nav>\r\n  \r\n  );\r\n}"],"names":[],"mappings":";;;;;AACA;AADA;;;AAIA,MAAM,WAAW;IAAC;IAAQ;IAAS;IAAU;IAAQ;CAAU;AAEhD,SAAS;IACtB,qBAEI,6LAAC;QAAI,WAAU;kBACb,cAAA,6LAAC;YAAI,WAAU;sBAEb,cAAA,6LAAC;gBAAE,MAAK;0BACN,cAAA,6LAAC,2IAAK;oBACJ,KAAI;oBACJ,KAAI;oBACJ,OAAO;oBACP,QAAQ;oBACR,WAAU;;;;;;;;;;;;;;;;;;;;;AAOxB;KAnBwB","debugId":null}}]
+}
