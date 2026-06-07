@@ -94,8 +94,8 @@ Le site sera accessible sur http://127.0.0.1:8000
 │
 ├── frontend/ 
 │   ├── public/ 
-|   |   └── assets          # fichiers statiques
-|   └── src/
+│   │   └── assets          # fichiers statiques
+│   └── src/
 │       ├── app/            # principal
 │       └── components/     # composants React
 │          └── ui/         # composants reutilisables
@@ -110,6 +110,5 @@ Le site sera accessible sur http://127.0.0.1:8000
 3. Committer vos changements
 4. Ouvrir une Pull Request
 
-© 2025 VICE TOGO
 
 #### *_ARIGATO_*
