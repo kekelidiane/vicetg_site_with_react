@@ -1,35 +1,29 @@
-import Home from '../components/layout/home';
-import About from '../components/layout/about';
-import Donate from '../components/layout/donate';
-import Blog from '../components/layout/blog';
-import Contact from '../components/layout/contact';
-import Footer from '../components/layout/footer';
-import Navbar from '../components/layout/navbar'
+import { Header } from "@/components/vicetg/Header";
+import { Hero } from "@/components/vicetg/Hero";
+import { Mission } from "@/components/vicetg/Mission";
+import { Domains } from "@/components/vicetg/Domains";
+import { Support } from "@/components/vicetg/Support";
+import { Blog } from "@/components/vicetg/Blog";
+import { Team } from "@/components/vicetg/Team";
+import { Partners } from "@/components/vicetg/Partners";
+import { ContactForm } from "@/components/vicetg/ContactForm";
+import { Footer } from "@/components/vicetg/Footer";
 
-<link rel="icon" href="/favicon.ico" />
-
-
-function App() {
+export default function HomePage() {
   return (
-    <div className="App bg-gray-100 min-h-screen text-black">
-      <title>vicetg</title>
-      <meta charSet="utf-8" />
-
-      <header className="bg-white shadow-md sticky top-0 z-50">
-        <Navbar/>
-      </header>
-
+    <>
+      <Header />
       <main>
-        <Home />
-        <About />        
-        <Donate />
+        <Hero />
+        <Mission />
+        <Domains />
+        <Support />
         <Blog />
-        <Contact />
-        <Footer />
+        <Team />
+        <Partners />
+        <ContactForm />
       </main>
-
-    </div>
+      <Footer />
+    </>
   );
 }
-
-export default App;

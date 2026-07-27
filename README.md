@@ -1,114 +1,45 @@
-# Site web de l'association VICE TOGO
+# VICE TOGO – Site web
 
-## Technologies
+Site vitrine de l'association VICE TOGO (Vie Culture et Environnement) : éducation des enfants démunis, agriculture biologique et reboisement.
 
-* Next js
-* Tailwind CSS
-* Fastapi (Python)
+## Stack
 
-## Prérequis
-* Node js
-* Python 3.11+
-* PostgreSQL
+- Next.js 
+- Tailwind CSS 
+- lucide-react (icônes)
 
+## Architecture
 
-## Installation
-
-Cloner le dépôt :
-
-```bash
-git clone https://github.com/kekelidiane/vicetg_site_with_react.git
+```
+src/
+  app/
+    page.tsx        Page d'accueil 
+    donation/       Page de don 
+    api/contact     Relais vers l'API d'envoi d'e-mails
+    api/newsletter  Relais vers l'API newsletter
+  components/
+    ui/           Composants génériques (Button, Input, Card...)
+    vicetg/       Composants métier (Header, Hero, Footer...)
+  lib/
+    site.ts       Contenu éditorial centralisé (textes, liens, stats)
+    api.ts        Appels du navigateur vers les routes /api
+    env.ts        Variables d'environnement côté serveur
+    types.ts      Types partagés
+    utils.ts      cn() (clsx + tailwind-merge)
 ```
 
-### > Frontend
-
-1. Se déplacer dans le dossier frontend :
-
-```bash
-cd frontend
-```
-
-2. Installer les dépendances :
+## Démarrage
 
 ```bash
 npm install
-# ou
-yarn install
-```
-
-3. Lancer le projet en mode développement :
-
-```bash
+cp .env.example .env.local
 npm run dev
-# ou
-yarn run dev
 ```
 
-Le site sera accessible sur http://localhost:3000
+## Backend
 
-### > Backend
+Le backend (envoi d'e-mails, newsletter) vit dans un dépôt séparé. Renseigner `CONTACT_API_URL` et `NEWSLETTER_API_URL` dans `.env.local` une fois déployé. Tant que ces variables sont vides, les formulaires répondent en mode démonstration.
 
-1. Se déplacer dans le dossier backend :
+## Màj
 
-```bash
-cd backend
-```
-
-2. Créer un environnement virtuel et :
-```bash
-pip install virtualenv
-python -m venv my_env
-#ensuite
-my_env\Scripts\activate # Sur Windows
-my_env\bin\activate # Sur macOS/Linux
-```
-
-3. Installer les dépendances :
-
-```bash
-pip install -r requirements.txt
-```
-4. Lancer le serveur
-
-```bash
-uvicorn main:app --reload
-```
-
-Le site sera accessible sur http://127.0.0.1:8000
-
-5. Documentation :
-
-- Swagger UI : http://127.0.0.1:8000/docs
-- Redoc : http://127.0.0.1:8000/redoc
-
-
-## Structure du projet
-
-```bash
-├── backend/            
-│   ├── article/           # gestion des articles
-│   ├── auth/              # authentification
-│   ├── core/              # configuration de la base de donnee
-│   ├── env/               # environnement virtuel 
-│   └── requirements.txt  
-│
-├── frontend/ 
-│   ├── public/ 
-│   │   └── assets          # fichiers statiques
-│   └── src/
-│       ├── app/            # principal
-│       └── components/     # composants React
-│          └── ui/         # composants reutilisables
-│   
-└── README.md              
-```
-
-## Contribution ?
-
-1. Forker le dépôt
-2. Créer une branche pour vos modifications
-3. Committer vos changements
-4. Ouvrir une Pull Request
-
-
-#### *_ARIGATO_*
+Textes, articles, statistiques, équipe et partenaires se modifient dans `src/lib/site.ts`, sans toucher aux composants.
